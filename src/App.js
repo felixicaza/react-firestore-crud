@@ -4,8 +4,18 @@
 
 import './App.css';
 
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+import Links from './components/Links';
+
 function App() {
-  return <h1>Hello world</h1>;
+  return (
+    // Fragmet
+    <>
+      <Links />
+      <ToastContainer />
+    </>
+  );
 }
 
 export default App;
