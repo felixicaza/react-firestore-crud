@@ -83,7 +83,7 @@ const LinkForm = props => {
           className='text-gray-700 font-bold block mb-2'
           htmlFor='description'
         >
-          <p className='mb-1'>Add wesite description</p>
+          <p className='mb-1'>Add website description</p>
           <textarea
             className='border bg-gray-100 py-2 px-4 w-full block h-32 resize-none outline-none focus:ring-2 focus:ring-indigo-400 rounded'
             name='description'

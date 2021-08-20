@@ -70,7 +70,7 @@ const Links = () => {
           Made by&nbsp;
           <a
             className='text-indigo-500 hover:underline transition-all'
-            href='https://felixicaza.com'
+            href='https://felixicaza.com?utm_source=react-firestore-crud&utm_medium=cpc&utm_campaign=GitHub&utm_id=github'
             target='_blank'
             rel='noreferrer'
           >
